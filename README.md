@@ -71,4 +71,4 @@ npm run build
 
 Hosted on Netlify
 
-Demo Link: https://your-quiz-app.netlify.app
+Demo Link: https://quiiizz-app.netlify.app/
