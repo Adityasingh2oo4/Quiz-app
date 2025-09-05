@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "correct_answer": "Paris",
+    "options": ["Paris", "London", "Berlin", "Madrid"]
+  },
+  {
+    "question": "Which language is primarily used for Android app development?",
+    "correct_answer": "Kotlin",
+    "options": ["JavaScript", "Kotlin", "Swift", "C#"]
+  },
+  {
+    "question": "Which JavaScript library is used for building user interfaces?",
+    "correct_answer": "React",
+    "options": ["Angular", "Vue", "React", "Svelte"]
+  },
+  {
+    "question": "What does CSS stand for?",
+    "correct_answer": "Cascading Style Sheets",
+    "options": [
+      "Cascading Style Sheets",
+      "Creative Style System",
+      "Computer Styling Syntax",
+      "Colorful Style Sheets"
+    ]
+  },
+  {
+    "question": "Which tag is used for the largest heading in HTML?",
+    "correct_answer": "<h1>",
+    "options": ["<h6>", "<h4>", "<h2>", "<h1>"]
+  }
+]
