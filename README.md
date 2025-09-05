@@ -26,17 +26,27 @@ A responsive and interactive Quiz Application built with **React + TailwindCSS**
 ---
 
 ## 📷 Screenshots
-*(Add screenshots of Home, Quiz, and Results pages if possible)*
+
+### 🏠 Home Page
+![Home Page](./public/screenshots/home.png)
+
+### ❓ Quiz Page
+![Quiz Page](./public/screenshots/quiz.png)
+
+### 🏆 Results Page
+![Results Page](./public/screenshots/results.png)
 
 ---
 
 ## 📦 Installation & Setup
 
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/quiz-app.git
-   cd quiz-app
-   ```
+   
+```bash
+git clone https://github.com/Adityasingh2oo4/Quiz-app.git
+
+cd quiz-app
+```
    
 2. Install dependencies:
 
@@ -52,6 +62,7 @@ npm run dev
 Build for production:
 ```bash
 Copy code
+
 npm run build
 ```
 
