@@ -1,12 +1,62 @@
-# React + Vite
+# 🎯 Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and interactive Quiz Application built with **React + TailwindCSS** that fetches multiple-choice questions from the [Open Trivia DB](https://opentdb.com/api_config.php). The app evaluates answers, tracks scores, and shows a detailed results summary.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🎨 Clean and responsive UI (desktop & mobile)
+- ❓ Multiple-choice questions (API powered)
+- ⏱ Timer per question (auto move on timeout)
+- 📊 Progress indicator (question count & progress bar)
+- 🏆 Score tracking with **localStorage high scores**
+- 🔄 Restart quiz anytime
+- ⏩ Navigation: **Next, Previous, Skip**
+- ⚡ Handles edge cases (no internet, empty data, refresh)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+- **React** (Functional components + Hooks)
+- **React Router** (Quiz & Results pages)
+- **TailwindCSS** (styling)
+- **Axios** (API calls)
+- **LocalStorage** (high scores persistence)
+
+---
+
+## 📷 Screenshots
+*(Add screenshots of Home, Quiz, and Results pages if possible)*
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/quiz-app.git
+   cd quiz-app
+   ```
+   
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+```bash
+npm run dev
+```
+
+Build for production:
+```bash
+Copy code
+npm run build
+```
+
+🌐 Deployment
+
+Hosted on Netlify
+
+Demo Link: https://your-quiz-app.netlify.app
