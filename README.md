@@ -27,6 +27,14 @@ A responsive and interactive Quiz Application built with **React + TailwindCSS**
 
 ## 📷 Screenshots
 
+### 🏠 Home Page
+![Home Page](public/screenshots/home.png)
+
+### ❓ Quiz Page
+![Quiz Page](public/screenshots/quiz.png)
+
+### 🏆 Results Page
+![Results Page](public/screenshots/results.png)
 
 
 ---
